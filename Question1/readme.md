@@ -12,7 +12,7 @@ This repository demonstrates basic Git commands, specifically how to initialize 
 - Created and staged a second file (`temp.txt`).
 - Unstaged it using the command `git restore --staged temp.txt`.
 
-![Stage and Unstage with restore](Screenshots/Stage_unstage_(git restore)_temp.txt.png)
+![Stage and Unstage with restore](<Screenshots/Stage_unstage_(git restore)_temp.txt.png>)
 
 ### 3. Modify, Stage, and Unstage (Using git reset)
 - Modified the `temp.txt` file.
